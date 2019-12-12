@@ -1,0 +1,51 @@
+
+		@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap');
+		@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+		@import url('https://fonts.googleapis.com/css?family=Asap&display=swap');
+
+		}
+		#banner:hover {
+			margin: 0 auto;
+			text-align: center;
+			padding:20px;
+			background-image:url("https://freedesignfile.com/upload/2016/10/Burning-Flame-Background-Flame-Textured-Background-13.jpg") ; 
+			border-radius: 50px 20px;
+			opacity: .45;
+		}
+
+		body{
+			font-family: 'Cedarville Cursive', cursive;
+			background-image: url("Images/cyan.jpg");
+			width:100%;
+			height:100%;
+			background-position: top;
+			background-repeat: no-repeat;
+			background-size: cover; 
+		}
+
+		#banner h1{
+			color:blue;
+			font-size: 34px;
+			text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+		}
+		#footer {
+  			position: absolute;
+  			bottom: 0;
+  			width: 100%;
+  			height: 2.5rem;           
+		}
+		#nav{
+			font-size: 30px;
+			color: #4747d1;
+			font-family: 'Asap', sans-serif;
+		}
+		#body{
+			background-color: black;
+			opacity: .35;
+		}
+		h2{
+			font-color:#ff0000;
+		}
+		h1{
+			text-align: center;
+		}
